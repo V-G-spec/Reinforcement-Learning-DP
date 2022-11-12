@@ -23,7 +23,9 @@ To return the gridworld with the grid marked accordingly.
 To run policy evaluation, policy iteration, value iteration to return a number of outputs consisting of reshaped grid policies and value functions.
 
 ## Author
-Vansh Gupta: https://github.com/V-G-spec
+[Vansh Gupta](https://github.com/V-G-spec)  
+Undergraduate student, Electrical Engineering Department  
+Indian Institute of Technology, Delhi
 
 ## License
 Copyright -2022 - Pohang University of Science and Technology, S. Korea
