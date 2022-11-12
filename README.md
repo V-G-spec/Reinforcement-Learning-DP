@@ -26,6 +26,6 @@ To run policy evaluation, policy iteration, value iteration to return a number o
 Vansh Gupta: https://github.com/V-G-spec
 
 ## License
-Copyright -2020 - Indian Institute of Technology, Delhi
+Copyright -2022 - Pohang University of Science and Technology, S. Korea
 
 Part of course EECE490W: Introduction to Reinforcement Learning
