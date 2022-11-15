@@ -7,7 +7,7 @@ Independent project done as part of EECE490W course (Intro to RL) taught at POST
 3.	Mines are mounted.
 4.	States differ within specific probability if action is chosen.
 
-properties and train the agent using reinforcement learning by implementing policy evaluation, value iteration and policy evaluation.
+properties and train the agent using reinforcement learning by implementing policy iteration, value iteration and policy evaluation.
 
 The actions of the agent were as follows:
 * If the agent moves left or right, it moves 1 step to that direction with some probability. Otherwise, it moves 2 steps
